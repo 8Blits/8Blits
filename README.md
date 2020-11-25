@@ -1,9 +1,9 @@
-### Hello! Im 8Blits!
+# Hello! Im 8Blits!
 
 
 
 
-# Everything is privated :P
+### Everything is privated :P
 
 [![8Blits Stats](https://github-readme-stats.vercel.app/api?username=8blits)](https://www.google.com)
 
