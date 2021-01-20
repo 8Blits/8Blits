@@ -18,6 +18,6 @@ I am currently working on a procedurally generated survival game!
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
 
 
-[![8Blits Stats](https://github-readme-stats.vercel.app/api?username=8blits)](https://www.google.com)
+[![8Blits Stats](https://github-readme-stats.vercel.app/api?username=8blits)](https://www.google.com&theme=radical)
 
-[![8Blits Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=8blits&layout=compact)](https://www.google.com)
+[![8Blits Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=8blits&layout=compact)](https://www.google.com&theme=radical)
