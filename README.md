@@ -2,8 +2,8 @@
 <a href="https://twitter.com/8Blits">
   <img align="left" alt="8Blits | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://twitter.com/8Blits">
-  <img align="left" alt="8Blits | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="http://www.8blits.com/">
+  <img align="left" alt="8Blits | Website" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/eight.svg" />
 </a>
 
 <br />
