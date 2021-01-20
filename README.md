@@ -3,7 +3,7 @@
   <img align="left" alt="8Blits | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="http://www.8blits.com/">
-  <img align="left" alt="8Blits | Website" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/eight.svg" />
+  <img align="left" alt="8Blits | Website" width="21px" src="https://raw.githubusercontent.com/prose/prose/370fe86574684dfcb72b27ffee0ca0ff787114dd/img/icons/link.svg" />
 </a>
 
 <br />
