@@ -1,6 +1,6 @@
-# Hello! Im 8Blits!
+### Hello! Im 8Blits!
 <a href="https://twitter.com/8Blits">
-  <img align="left" alt="8Blits | Twitter" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="8Blits | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 <br />
