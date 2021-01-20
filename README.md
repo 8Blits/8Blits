@@ -2,10 +2,13 @@
 <a href="https://twitter.com/8Blits">
   <img align="left" alt="8Blits | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+<a href="https://twitter.com/8Blits">
+  <img align="left" alt="8Blits | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
 <br />
 <br />
-Hello! My name is 8blits, I am a Unity C# developer!
+Hello! My name is 8Blits, I am a Unity C# developer!
 <br />
 I am currently working on a procedurally generated survival game!
 
