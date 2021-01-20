@@ -6,6 +6,7 @@
 <br />
 <br />
 Hello! My name is 8blits, I am a Unity C# developer!
+<br />
 I am currently working on a procedurally generated survival game!
 
 ### Language I use:
