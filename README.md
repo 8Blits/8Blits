@@ -2,7 +2,7 @@
 <a href="https://twitter.com/8Blits">
   <img align="left" alt="8Blits | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="http://www.8blits.com/">
+<a href="http://www.8blits.github.io/">
   <img align="left" alt="8Blits | Website" width="21px" src="https://avatars2.githubusercontent.com/u/68965951?s=60&v=4" />
 </a>
 
