@@ -13,7 +13,7 @@ Hello! My name is 8Blits, I am a Unity C# developer!
 I am currently working on a procedurally generated survival game!
 
 ### Languages I use:
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/topics/csharp/csharp.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 <br />
@@ -24,4 +24,4 @@ I am currently working on a procedurally generated survival game!
 <br />
 
 [![8Blits Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=8Blits&count_private=true&theme=radical)](https://www.google.com)
--->
+--->
