@@ -18,9 +18,9 @@ I am currently working on a procedurally generated survival game!
 
 <br />
 
-![8Blits Stats](https://github-readme-stats.vercel.app/api?username=8Blits&count_private=true&theme=radical)
+[//]: # (![8Blits Stats](https://github-readme-stats.vercel.app/api?username=8Blits&count_private=true&theme=radical))
 <br />
 <br />
 
-[![8Blits Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=8Blits&count_private=true&theme=radical)](https://www.google.com)
+[//]: # ([![8Blits Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=8Blits&count_private=true&theme=radical)](https://www.google.com))
 
