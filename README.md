@@ -8,7 +8,7 @@
 
 <br />
 <br />
-Hello! My name is 8Blits, I am a Unity C# developer!
+Hello! My name is 8Blits, I am a Unity game developer, and artist!
 <br />
 I am currently working on a procedurally generated survival game!
 
